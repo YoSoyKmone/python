@@ -3,7 +3,7 @@ notas=[]
 i=0
 h=int(raw_imput("cantidad de calificaciones"))
 while nota >= 0:
-    if i!=h
+    if i<h
         nota=int(raw_imput("nota"))
         notas.append(nota)
         i=i+1
